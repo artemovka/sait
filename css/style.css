@@ -1,0 +1,191 @@
+.card {
+    border-style: solid;
+    border-radius: 50px;
+    font-size: large;
+    margin: 15px;
+    padding: 20px;
+    max-width: 420px;
+    min-height: 200px;
+    background-color: #FDF4E3;
+    border-color: #EC2D01;
+
+
+}
+.cont1{
+    border-style: solid;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 23px;
+    font-size: 25px;
+    
+}
+
+main {
+    margin-left: 15px;
+    margin-right: 15px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #FDF4E3;
+    
+}
+
+body{
+    background-color: #FDF4E3;
+    color: #4d4d4d;
+}
+
+
+header {
+    background-color: #FDF4E3;
+    color: #EC2D01;
+    text-align: center;
+    padding: 20px 0;
+}
+
+ h1{
+    font-size: 80px;
+    color: #EC2D01;   
+  }
+
+  h4{
+    font-size: 22px;
+  }
+
+  h3{
+    font-size: 30px;
+  }
+
+  h2{
+    font-size: 35px;
+ 
+  }
+
+header {
+    background-color: #FCDD76;
+    background-size: cover;
+    color: #EC2D01;
+    text-align: center;
+    padding: 20px 0;
+}
+.picture {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.photo1 {
+    background: url(https://sun9-66.userapi.com/impf/c856032/v856032493/67252/xD2ERU_IWFY.jpg?size=403x604&quality=96&sign=00c1b283f3f34ed1ab8aef11ffa328c4&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+
+.photo2 {
+    background: url(https://sun9-16.userapi.com/impf/c856032/v856032493/6728a/WuAKE7VxjUk.jpg?size=1440x2160&quality=96&sign=30e8662de976265a154702267c2be289&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo3 {
+    background: url(https://sun9-16.userapi.com/impg/xej93GAiilNB4LWbL6s9PJSGaWocGHz1VeODjg/WevqvDZ-VyM.jpg?size=438x604&quality=95&sign=3f06563fb5b60928d8273d14aaca3d1d&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo4 {
+    background: url(https://sun9-57.userapi.com/impg/bAINsmQTqxoy3501P1CRRsnFnVBBfhjEyc9FYA/kpx7p09V9OI.jpg?size=408x604&quality=95&sign=7b7f874eb87ec2d5c662066df8e781d6&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo5 {
+    background: url(https://sun9-1.userapi.com/impf/c856032/v856032493/672e7/5hnklcbAxI4.jpg?size=403x604&quality=96&sign=8015b713dfc282745bb03a2fb74573f0&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo6 {
+    background: url(https://sun9-14.userapi.com/impg/YJOSOZW-e5C-Hf9eDHXjXaEp8LQBVc9OKGyEhw/8DyTYGDyNS0.jpg?size=403x604&quality=95&sign=669f8be10c120bfee077e0909b418840&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo7 {
+    background: url(https://sun9-42.userapi.com/impg/rJuy_jN_AxXDQOD7w04izAw9bRUpdhLhz4SdLQ/zmBfT5EQq40.jpg?size=1440x2160&quality=95&sign=cffe7a8de59dc3d0e561abfda553b0b6&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo8 {
+    background: url(https://sun9-80.userapi.com/impg/_sR9ItL6tdbqnKLs1ivLmDwjKrI6rXhxV_cf1A/IcqqlypvM6k.jpg?size=604x403&quality=95&sign=e2a69d12d05c1ab6c21bce446e3c0efb&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo9 {
+    background: url(https://sun9-36.userapi.com/impg/QVgP0uzBM6228V81vZU5ddZl2nXSNnU3HsihdA/ptPRg6boNYg.jpg?size=604x403&quality=95&sign=c03000abdeaf0bdef3ceaa94b0a2b4f7&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo10 {
+    background: url(https://sun9-62.userapi.com/impg/oipSkKLLt2zA3RGhwHuGChwKgNf2wPJlJO_fRQ/-BOYdjUo7eg.jpg?size=604x403&quality=95&sign=b381cd7aeeed18e3e5ff6dbe5ec0c628&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo11 {
+    background: url(https://sun9-77.userapi.com/impg/jKbsJPD-NHQmo96vXPNujSZhZpo5ytU3-1RLcQ/SkadaispmBs.jpg?size=604x403&quality=95&sign=ad2c834babf2e91c638630921940c814&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo12 {
+    background: url(https://sun9-55.userapi.com/impg/ljScyd6UhNA9sdqrnTbvC77K1xpLr07LBgTBVQ/9qdeu270sBg.jpg?size=1170x1322&quality=95&sign=8f553b0a8527e15c4b9b7e965b9a31fa&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.photo13 {
+    background: url(https://sun9-6.userapi.com/impg/7VhJVs8Juw3JeNx9zqDbaZoJsXS9W1wdm9ZgFA/oS7XbR9wxhU.jpg?size=457x456&quality=95&sign=c40d14d448408bdb36b42070a001182e&type=album) center no-repeat;
+    width: 90px;  
+    height: 90px;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.footer {
+    color: #EC2D01;
+    font-size: 25px;
+    clear: both;
+    background-color: #FDF4E3;
+}
+
